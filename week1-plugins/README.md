@@ -24,6 +24,8 @@ week1-plugins/
 ├── configuration/
 │   └── plugins.py
 └── screenshots/
+│   └──Reorder Rack.png
+│    └──Topology View.png
 ```
 
 توضیح فایل‌ها:
